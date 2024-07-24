@@ -20,6 +20,5 @@ public class HowLarge {
 
         System.out.println("The total amount of items in the list was:  " + strings.size());
 
-        scanner.close();
     }
 }

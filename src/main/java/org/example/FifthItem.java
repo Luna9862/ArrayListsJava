@@ -23,7 +23,5 @@ public class FifthItem {
         } else {
             System.out.println("You did not enter at least five strings.");
         }
-
-        scanner.close();
     }
 }
